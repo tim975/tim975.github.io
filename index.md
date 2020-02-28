@@ -1,1 +1,1 @@
-![straw](images/60B88367-3337-411A-91EF-5A7D26E28214.jpeg)
+![straw](images/0B53EFCA-3330-4C12-BB84-F517BA3EE171.jpeg)
