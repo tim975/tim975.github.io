@@ -1,6 +1,6 @@
 # About
 
-Hi, I’m Tim Howard, erstwhile writer, habitual flâneur (ie. I don’t have a driver’s license and sometimes the bus is cancelled), book reader, and music enthusiast. I divide my time between Melbourne, Australia,  and [Instagram](https://www.instagram.com/tmhwrd/). 
+Hi, I’m Tim Howard, occasional writer, habitual flâneur (ie. I don’t have a driver’s license and sometimes the bus is cancelled), book reader, and music enthusiast. I divide my time between Melbourne, Australia,  and [Instagram](https://www.instagram.com/tmhwrd/). 
 
 ___
 
