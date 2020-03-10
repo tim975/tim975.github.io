@@ -2,7 +2,7 @@
 
 I’ve been getting deep into [Chapter Music’s two releases](https://chaptermusic.com/artist/essendon-airport/) compiling the output of Melbourne post-punk/minimal wave band Essendon Airport. (“We drew up a list of names and it was absolutely the most appalling.”)
 
-![Essendon Airport](images/EssendonAirport.JPG)
+![Essendon Airport](/images/EssendonAirport.JPG)
 
 *Sonic Investigations of the Trivial* (2002) collects the 1979 EP of that title, some live tracks, and the *Talking to Cleopatra* single and b-side. The music is mostly instrumental, with founding members David Chesworth and Robert Goodge developing intricate minimalist figures over primitive drum machine beats. It’s not cold and precise, though - there’s a loose, almost swinging quality, and the tone is warm rather than forbidding.
 
